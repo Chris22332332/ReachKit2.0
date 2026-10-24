@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "activeProvider": "groq",
+  "providers": {
+    "groq": {
+      "apiKey": "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",
+      "model": "openai/gpt-oss-120b",
+      "models": [
+        {
+          "id": "allam-2-7b",
+          "name": "ALLaM-2-7b"
+        },
+        {
+          "id": "canopylabs/orpheus-arabic-saudi",
+          "name": "Canopy Labs Orpheus Arabic Saudi",
+          "free": false
+        },
+        {
+          "id": "canopylabs/orpheus-v1-english",
+          "name": "Canopy Labs Orpheus V1 English",
+          "free": false
+        },
+        {
+          "id": "openai/gpt-oss-120b",
+          "name": "GPT OSS 120B",
+          "free": false
+        },
+        {
+          "id": "openai/gpt-oss-20b",
+          "name": "GPT OSS 20B",
+          "free": false
+        },
+        {
+          "id": "meta-llama/llama-prompt-guard-2-22m",
+          "name": "Llama Prompt Guard 2 22M",
+          "free": false
+        },
+        {
+          "id": "meta-llama/llama-prompt-guard-2-86m",
+          "name": "Prompt Guard 2 86M",
+          "free": false
+        },
+        {
+          "id": "qwen/qwen3.8-27b",
+          "name": "Qwen/Qwen3.8-27B",
+          "free": false
+        },
+        {
+          "id": "openai/gpt-oss-safeguard-20b",
+          "name": "Safety GPT OSS 20B",
+          "free": false
+        }
+      ],
+      "updatedAt": "2026-10-24T05:16:03.616Z"
+    }
+  }
+}
